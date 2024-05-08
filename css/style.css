@@ -26,7 +26,7 @@ img{
     font-size: 50px;
 }
 #home{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.3)), url(/assets/image/background.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.3)), url(../assets/image/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
